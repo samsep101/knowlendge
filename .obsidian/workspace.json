@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Теория вероятности.md",
+                "file": "IT/Архитектура, паттерны, парадигмы, методологии/Front FSD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Теория вероятности"
+              "title": "Front FSD"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Теория вероятности.md",
+                "file": "IT/Архитектура, паттерны, парадигмы, методологии/Front FSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Теория вероятности"
+              "title": "Обратные ссылки для Front FSD"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Теория вероятности.md",
+                "file": "IT/Архитектура, паттерны, парадигмы, методологии/Front FSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Теория вероятности"
+              "title": "Исходящие ссылки из Front FSD"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Теория вероятности.md"
+                "file": "IT/Архитектура, паттерны, парадигмы, методологии/Front FSD.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Теория вероятности"
+              "title": "Структура Front FSD"
             }
           }
         ]
@@ -164,12 +164,12 @@
   },
   "active": "07a38fa9c6ca4277",
   "lastOpenFiles": [
+    "Math/Теория вероятности.md",
     "IT/Front.md",
     "IT/Архитектура, паттерны, парадигмы, методологии/Front FSD.md",
     "IT/Архитектура, паттерны, парадигмы, методологии/Различные материалы.md",
     "IT/Архитектура, паттерны, парадигмы, методологии.md",
     "IT/Архитектура, паттерны, парадигмы, методологии",
-    "Math/Теория вероятности.md",
     "Math/Материалы.md",
     "Финансы/Экономика.md",
     "Софт скиллы.md",
